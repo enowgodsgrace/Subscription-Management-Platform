@@ -13,3 +13,5 @@ L
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 F
 contracts/billing.clar,b/8/b8d4bcf7c45ad8241562f418d38ca932d195cc67
+E
+tests/billing.test.ts,0/d/0df9eb79c75dfdc9ecdbb57c89a416348922efd8
